@@ -21,7 +21,7 @@ namespace Ejercicio_2
                 }
                 Console.WriteLine ("");
             }
-            string[,] paises = { { "EL SLAVADOR", "GUATEMALA", "HONDURAS" }, { "", "", "" } };
+            string[,] paises = { { "EL SAlVADOR", "GUATEMALA", "HONDURAS" }, { "", "", "" } };
         }
     }
 }
